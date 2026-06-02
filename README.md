@@ -18,3 +18,5 @@ java -cp "target/classes;target/dependency/*" dev.labs.dynamodb.notesScan
 
 mvn dependency:copy-dependencies
 java -cp "target/classes;target/dependency/*" dev.labs.dynamodb.notesUpdate
+
+http://localhost:63342/aws-Dynamo-DB/Lab-DynamoDB/Developing%20on%20AWS%20-%20Lab%203%20(Java)%20-%20Develop%20Solutions%20Using%20Amazon%20DynamoDB%20_%20Self-Paced%20Labs.html?_ijt=u1pd4u1un6fkiha9h4l3s8tq2u&_ij_reload=RELOAD_ON_SAVE
